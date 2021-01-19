@@ -5,13 +5,13 @@ Tip Calculator GitHub repo URL
 https://github.com/sunstar4/tipzzz
 
 The URL of your App walkthrough gif
-https://recordit.co/1N9HYXmKox
+https://recordit.co/1N9HYXmKox.gif
 
 **Tipzzz** is a tip calculator application for iOS.
 
 Submitted by: **Sunstar4**
 
-Time spent: *3.5** hours spent in total
+Time spent: *4* hours spent in total
 
 ## User Stories
 
