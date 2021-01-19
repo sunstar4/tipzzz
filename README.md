@@ -1,6 +1,12 @@
 # tipzzz
 # Pre-work - *Tipzzz*
 
+Tip Calculator GitHub repo URL
+https://github.com/sunstar4/tipzzz
+
+The URL of your App walkthrough gif
+https://recordit.co/1N9HYXmKox
+
 **Tipzzz** is a tip calculator application for iOS.
 
 Submitted by: **Sunstar4**
@@ -29,10 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://recordit.co/1N9HYXmKox
-
-
-<img src = 'https://recordit.co/1N9HYXmKox' width='' alt='Video Walkthrough'/> 
+<img src = ‘’https://recordit.co/1N9HYXmKox.gif'' width='' alt='Video Walkthrough'/> 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
